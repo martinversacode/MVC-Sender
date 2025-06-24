@@ -41,8 +41,8 @@ Follow these steps to get the Martin Versa Email Sender up and running:
 First, clone the project to your local machine:
 
 ```bash
-git clone https://github.com/your-username/martin-versa-email-sender.git
-cd martin-versa-email-sender
+git clone https://github.com/your-username/MVC-Sender.git
+cd MVC-Sender
 ```
 
 ### 2\. Install Dependencies
@@ -60,7 +60,7 @@ composer require phpmailer/phpmailer
 Organize your data in the following folder structure:
 
 ```
-/martin-versa-email-sender
+/MVC-Sender
 ├── config
 │   └── config.php          # Main configuration file
 ├── data
