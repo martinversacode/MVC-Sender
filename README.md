@@ -71,7 +71,7 @@ Organize your data in the following folder structure:
 │   └── functions.php       # Supporting functions
 ├── letter
 │   └── letter.txt          # Your HTML email template
-├── src                     # (If this is a folder for other sources, add a description)
+├── src                     # 
 └── send.php                # Main script for sending emails
 ```
 
