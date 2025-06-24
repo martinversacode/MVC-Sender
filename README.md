@@ -45,16 +45,6 @@ git clone https://github.com/your-username/MVC-Sender.git
 cd MVC-Sender
 ```
 
-### 2\. Install Dependencies
-
-Next, install the required PHP libraries using Composer:
-
-```bash
-composer require phpmailer/phpmailer
-```
-
------
-
 ## 📁 Configuration
 
 Organize your data in the following folder structure:
