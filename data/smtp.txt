@@ -1,0 +1,2 @@
+smtp_user1,smtp_pass1,smtp.server1.com,587
+smtp_user2,smtp_pass2,smtp.server2.com,465

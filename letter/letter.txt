@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>Hello ##email##</h1>
+  <p>This is a test email sent on ##date## at ##time##</p>
+  <p>Your unique ID: ##random##</p>
+  <a href="##shortlink##">Click here</a>
+</body>
+</html>
