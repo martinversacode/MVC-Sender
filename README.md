@@ -1,5 +1,3 @@
------
-
 # 🔮 Martin Versa Email Sender
 
 **An advanced email delivery system featuring SMTP rotation, email spoofing, and flexible templating.**
